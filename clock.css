@@ -33,5 +33,5 @@ body{
 }
 .clock:hover {
     transform: scale(1.1);
-    box-shadow: 0 15px 30px #de0404;
+    box-shadow: 0 15px 30px #bf4444;
 }
